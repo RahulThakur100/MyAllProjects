@@ -1,0 +1,16 @@
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\bin\Debug\WpfNotepad.exe.config
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\bin\Debug\WpfNotepad.exe
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\bin\Debug\WpfNotepad.pdb
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.csprojResolveAssemblyReference.cache
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\MainWindow.g.cs
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\App.g.cs
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad_MarkupCompile.cache
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad_MarkupCompile.lref
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\MainWindow.baml
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.g.resources
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.Properties.Resources.resources
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.csproj.GenerateResource.Cache
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.exe
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\WpfNotepad.pdb
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\About.g.cs
+F:\sudy\dotnet\solutions\WpfNotepad\WpfNotepad\obj\Debug\About.baml
